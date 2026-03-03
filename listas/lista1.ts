@@ -136,3 +136,5 @@ function executarTodasAsQuestoes(){
 }
 
 executarTodasAsQuestoes()
+
+export {}
